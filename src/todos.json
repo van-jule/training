@@ -1,0 +1,7 @@
+[
+    { "id": "id-1", "text": "зробити дз - німецька", "completed": true },
+    { "id": "id-2", "text": "подивитись відео реакт", "completed": false },
+    { "id": "id-3", "text": "вивчити нові слова - німецька", "completed": false },
+    { "id": "id-4", "text": "приготувати вечерю", "completed": true },
+    { "id": "id-5", "text": "поприбирати", "completed": false }
+  ]
